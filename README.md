@@ -36,13 +36,16 @@ This repository contains an automated regression testing suite developed for cor
    
    
 2. **Navigate to the project directory:**
-   ```cd Moodle-Cypress-Automation
+   ```bash
+   cd Moodle-Cypress-Automation
    
    
 3. **Install dependencies:**
-   ```npm install
+   ```bash
+   npm install
    
    
 4. **Open Cypress Test Runner:**
-   ```npx cypress open
+   ```bash
+   npx cypress open
    
